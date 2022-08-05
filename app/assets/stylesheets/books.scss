@@ -15,3 +15,30 @@ h1 {
 th {
   padding-bottom: 5px;
 }
+
+h2 {
+  margin: 16.185px 0;
+}
+
+td {
+  padding: 0 5px 7px 5px;
+}
+
+.field label {
+  display: block;
+}
+
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+.field #book_title {
+  padding: 1px 2px;
+}
+
+.field #book_body {
+  padding: 2px;
+}
+input[type="submit" i] {
+  padding: 1px 6px;
+}
